@@ -28,10 +28,7 @@ var socialIconSettings = {
             "url": "https://facebook.com",
             "text": "Facebook"
         },
-        "twitter": {
-            "url": "https://twitter.com",
-            "text": "Twitter"
-        },
+       
         "googleplus": {
             "url": "https://plus.google.com",
             "text": "Google+"
